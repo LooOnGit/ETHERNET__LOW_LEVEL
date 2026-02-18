@@ -1,0 +1,7 @@
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/arch=x86_64
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/name=Local
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/os=win32
+configDescList=org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:01_clock_config,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:02_leds_config,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:03_uart_config,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:04_adc_config
+eclipse.preferences.version=1
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:01_clock_config/activeLaunchMode=run
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:01_clock_config/activeLaunchTarget=null\:---

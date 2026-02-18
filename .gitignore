@@ -1,0 +1,63 @@
+# ============================================
+# STM32 / Embedded C Project .gitignore
+# ============================================
+
+# ---------- Build output ----------
+build/
+Debug/
+Release/
+*.o
+*.d
+*.elf
+*.hex
+*.bin
+*.map
+*.list
+*.srec
+*.lst
+
+# ---------- IDE / Editor ----------
+# STM32CubeIDE / Eclipse
+.settings/
+.cproject
+.project
+*.launch
+
+# VS Code
+.vscode/
+
+# Keil uVision
+*.uvoptx
+*.uvguix.*
+*.scvd
+Objects/
+Listings/
+RTE/
+
+# IAR
+*.dep
+*.ewt
+settings/
+
+# JetBrains
+.idea/
+
+# ---------- OS generated ----------
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+.DS_Store
+._*
+
+# ---------- Metadata ----------
+.metadata/
+
+# ---------- Backup / Temp ----------
+*~
+*.bak
+*.swp
+*.tmp
+
+# ---------- Large binary files ----------
+*.exe
+*.pdf

@@ -1,0 +1,2 @@
+../LWIP/Target/ethernetif.c:22:6:HAL_ETH_MspInit	2
+../LWIP/Target/ethernetif.c:88:13:low_level_init	2
